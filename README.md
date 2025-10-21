@@ -1,2 +1,6 @@
 # victorlanceluz.github.io
-personal portfolio
+---
+title: "About Me"
+layout: default
+---
+This website is my personal portfolio
